@@ -90,15 +90,23 @@ export default function App() {
 
       <footer>
         This project was coded by{" "}
-        <a href="https://www.shecodes.io" target="_blank" rel="noreferrer">
-          SheCodes
+        <a href="https://github.com/Mafifiza/" target="_blank" rel="noreferrer">
+          Refilwe Motaung
         </a>{" "}
         and is{" "}
-        <a href="https://github.com" target="_blank" rel="noreferrer">
+        <a
+          href="https://github.com/Mafifiza/homework-weather-app"
+          target="_blank"
+          rel="noreferrer"
+        >
           open-sourced on GitHub
         </a>{" "}
         and{" "}
-        <a href="https://www.netlify.com" target="_blank" rel="noreferrer">
+        <a
+          href="https://mellow-otter-3d35b1.netlify.app/"
+          target="_blank"
+          rel="noreferrer"
+        >
           hosted on Netlify
         </a>
       </footer>
